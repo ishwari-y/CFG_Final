@@ -1,0 +1,131 @@
+body 
+{ 
+    background-color: orange;
+    padding:80px;
+
+}
+h1 
+{
+    font-family: 'Bebas Neue', cursive;
+    text-align: left;
+    font-size: 150px;
+    top: 0%;
+    left: 0%;
+    
+}
+
+
+
+
+
+    
+
+
+.logo
+{
+  display: flexbox;
+  width:200px;
+  height:auto;
+  position:absolute;
+  top: 0;
+  left:40%;
+
+}
+
+.background
+{
+    position: absolute;
+    top:0%;
+    height:170%;
+    right:0;
+    margin:0;
+    bottom:0%;
+    padding:0;
+    width:50%;
+
+
+}
+
+.rhino
+
+{
+    left:0%;
+    position: absolute;
+
+
+
+
+}
+
+
+.didyouknow 
+{
+
+font-family:'Bebas Neue', cursive;
+background-color: white;
+box-sizing: content-box;
+position: relative;
+display:flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content:space-evenly;
+align-items: center;
+align-content: center;
+flex-shrink: 100px;
+height: 600px;
+width:600px;
+left: 20%;
+}
+
+h2
+
+
+{
+    font-family: 'Bebas Neue', cursive;
+    font-size:60px;
+    font-weight:800;
+    margin:20px;
+    padding:50px;
+    z-index:100;
+
+
+
+
+
+}
+
+p {
+
+    padding: 20px;
+    font-size: 15px;
+}
+
+nav{ 
+    font-family:'Bebas Neue', cursive;
+    color: black;
+    font-size: 30px;
+    letter-spacing:10px;
+    bottom:-200px;
+    position:relative;
+
+
+}
+
+
+h6 {
+
+    font-family: 'Bebas Neue', cursive;
+    font-size:19px;
+    position: relative;
+    bottom:-280px;
+ 
+  
+
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: -50px;
+    padding-bottom:0px;
+}
